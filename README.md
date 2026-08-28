@@ -8,8 +8,6 @@
   Graphic technology, color workflows, digital media, and real-time visual graphics.
 </p>
 
----
-
 ## About
 
 I am a Graphic Technology Engineer currently completing a Master's degree in Graphic Technology with a Multimedia specialization at the University of Zagreb.
