@@ -8,14 +8,6 @@
   Graphic technology, color workflows, digital media, and real-time visual graphics.
 </p>
 
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
-  ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  ·
-  <a href="mailto:sekuloski_marjan@yahoo.com">Email</a>
-</p>
-
 ---
 
 ## About
