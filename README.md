@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Marjan Sekuloski</h1>
 
-<!--
-**msekuloski/msekuloski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Graphic Technology Engineer · Multimedia & Real-Time Graphics</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Graphic technology, color workflows, digital media, and real-time visual graphics.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  ·
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  ·
+  <a href="mailto:sekuloski_marjan@yahoo.com">Email</a>
+</p>
+
+---
+
+## About
+
+I am a Graphic Technology Engineer currently completing a Master's degree in Graphic Technology with a Multimedia specialization at the University of Zagreb.
+
+My work sits between graphic production and digital visual media, with current academic work focused on real-time non-photorealistic rendering in Unity for stylized 3D animation.
+
+---
+
+<sub>
+Graphic Technology · Multimedia · Real-Time Graphics · Color Management
+</sub>
